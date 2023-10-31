@@ -1,2 +1,2 @@
-# Audasort
-SPOJ Audasort
+# Adausort
+SPOJ Adausort
